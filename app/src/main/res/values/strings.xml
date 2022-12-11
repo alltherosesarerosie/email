@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3lesson1</string>
+    <string name="Enter_email">  Enter email</string>
+    <string name="enter_theme">  Enter theme</string>
+    <string name="text">  Text</string>
+    <string name="send">send</string>
+</resources>
